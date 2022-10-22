@@ -1,4 +1,5 @@
-# vel_line
+IDL solar physics
+# vel_line - author: Jan Kotek
 HOW TO USE VEL_LINE 
 -------------------
 1)set folder of output
@@ -17,3 +18,6 @@ INPUT : emission profile - array of intensities and wavelength
 OUTPUT: Parameters of function: Gaussian:       G, max. intensity, lambda max.,HWHM, integrated intensity,dopp,CHI2
                                 Lorentzian:     L, max. intensity, lambda max.,HWHM, integrated intensity,dopp,CHI2
 				Voigt:		V, max. intensity, gaussian parameter, damping parameter, integrated intensity, dopp, chi2
+
+#fitsoverlap-r 
+Co-alignement of solar disc data from different instruments
